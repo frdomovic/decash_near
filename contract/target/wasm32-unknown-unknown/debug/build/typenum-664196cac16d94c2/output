@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/x/Desktop/DeCash_Rust/contract/target/wasm32-unknown-unknown/debug/build/typenum-664196cac16d94c2/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/x/Desktop/DeCash_Rust/contract/target/wasm32-unknown-unknown/debug/build/typenum-664196cac16d94c2/out/op.rs
